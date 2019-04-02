@@ -1,0 +1,2 @@
+D:\18.11.2276\LatihanConstructor\LatihanConstructor\obj\Debug\LatihanConstructor.csprojAssemblyReference.cache
+D:\18.11.2276\LatihanConstructor\LatihanConstructor\obj\Debug\LatihanConstructor.csproj.CoreCompileInputs.cache
